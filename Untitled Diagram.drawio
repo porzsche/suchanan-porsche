@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T10:17:53.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sWYGONrzl_NgV9R4Ispn" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T10:28:40.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NBuQeUcymr-dykp-wqKX" version="20.6.0" type="github">
   <diagram id="EYLlssiMXP21X99IonwG" name="Page-1">
-    <mxGraphModel dx="413" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,17 +152,29 @@
         <mxCell id="vKeQTIYzwpLXJLgaARwl-5" value="ซื้อข้าวเช้าไหม" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="732.5" width="200" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="vKeQTIYzwpLXJLgaARwl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vKeQTIYzwpLXJLgaARwl-8" target="vKeQTIYzwpLXJLgaARwl-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cNWWdvUu0tkJ8e8RfMmg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vKeQTIYzwpLXJLgaARwl-8" target="vKeQTIYzwpLXJLgaARwl-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="1170" />
+              <mxPoint x="460" y="1170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vKeQTIYzwpLXJLgaARwl-8" value="ซื้อ" style="whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="vKeQTIYzwpLXJLgaARwl-8" value="&lt;p&gt;ทานข้าว พร้อมเรียนคาบแรกตอน 08.00&amp;nbsp;&lt;/p&gt;&lt;p&gt;บางวันครูพูดเยอะก็ได้กินช้า แต่บอกเลยเริ่มเรียน 8 โมงไม่มีจริงอิอิ้&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="950" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vKeQTIYzwpLXJLgaARwl-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vKeQTIYzwpLXJLgaARwl-10" target="vKeQTIYzwpLXJLgaARwl-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cNWWdvUu0tkJ8e8RfMmg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vKeQTIYzwpLXJLgaARwl-10" target="vKeQTIYzwpLXJLgaARwl-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="1170" />
+              <mxPoint x="460" y="1170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="vKeQTIYzwpLXJLgaARwl-10" value="ไม่ซื้อ" style="whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="950" width="120" height="60" as="geometry" />
+        <mxCell id="vKeQTIYzwpLXJLgaARwl-10" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;ไม่ได้กินข้าว เริ่มเรียน 08.00 น.&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vKeQTIYzwpLXJLgaARwl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vKeQTIYzwpLXJLgaARwl-12" target="vKeQTIYzwpLXJLgaARwl-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -177,19 +189,7 @@
           <mxGeometry x="85" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vKeQTIYzwpLXJLgaARwl-29" value="สิ้นสุด" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vKeQTIYzwpLXJLgaARwl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vKeQTIYzwpLXJLgaARwl-31" target="vKeQTIYzwpLXJLgaARwl-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vKeQTIYzwpLXJLgaARwl-31" value="&lt;p&gt;ทานข้าว พร้อมเรียนคาบแรกตอน 08.00&amp;nbsp;&lt;/p&gt;&lt;p&gt;บางวันครูพูดเยอะก็ได้กินช้า แต่บอกเลยเริ่มเรียน 8 โมงไม่มีจริงอิอิ้&lt;/p&gt;&lt;div&gt;&lt;br style=&quot;font-family: Garamond;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1055" width="140" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="vKeQTIYzwpLXJLgaARwl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vKeQTIYzwpLXJLgaARwl-33" target="vKeQTIYzwpLXJLgaARwl-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vKeQTIYzwpLXJLgaARwl-33" value="ไม่ได้กินข้าว เริ่มเรียน 08.00 น." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
